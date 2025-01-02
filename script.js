@@ -5,3 +5,11 @@ function print(){
 function featureA(){
     console.log("Enable the group chat feature !!")
 }
+
+function chatFeature(){
+    console.log("Added the chat feature")
+}
+
+function videoApplication(){
+    console.log("video application !!")
+}
