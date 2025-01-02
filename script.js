@@ -5,3 +5,7 @@ function print(){
 function featureA(){
     console.log("Enable the group chat feature !!")
 }
+
+function featureB(){
+    console.log("Enable the video call feature !!")
+}
