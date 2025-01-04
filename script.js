@@ -13,3 +13,7 @@ function chatFeature(){
 function videoApplication(){
     console.log("video application !!")
 }
+
+function videoCall(){
+    console.log("video call feature")
+}
